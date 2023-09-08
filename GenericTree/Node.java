@@ -1,6 +1,9 @@
 package GenericTree;
+
 //way1
 import java.util.ArrayList;
+
+
 
 class Node{
     int data;

@@ -1,3 +1,4 @@
+package Basic;
 import java.util.ArrayList;
 public class AdjacencyList2 {
     

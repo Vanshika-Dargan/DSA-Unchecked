@@ -1,3 +1,4 @@
+package Basic;
 public class AdjacencyMatrix{
 
     static void addEdge(int graph[][],int src,int dst){

@@ -1,4 +1,15 @@
+package AVL;
 
+
+class Node{
+    int data;
+    Node left;
+    Node right;
+    int height;
+    Node(int data){
+        this.data=data;
+    }
+}
 public class AVLInsert {
 
    Node insert(Node root,int val){
